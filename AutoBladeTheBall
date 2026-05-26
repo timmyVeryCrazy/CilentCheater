@@ -1,1 +1,1078 @@
---[[ v1.0.0 https://wearedevs.net/obfuscator ]] return(function(...)local x={"\109\078\113\057\082\110\061\061","\076\110\084\054\057\104\083\061";"\049\055\121\119\112\114\120\117\115\102\100\055";"\117\084\077\065\081\120\078\075\077\043\102\047\048\079\043\101\097\103\100\052\118\110\061\061";"\104\098\088\055\121\104\121\097\087\076\106\075\101\106\085\102\047\110\061\061","\109\076\050\110\101\076\071\081","\111\054\111\104\111\089\090\049\049\104\115\069\071\122\071\068\052\110\061\061";"\082\117\080\115\082\117\108\102","\069\078\104\049\072\089\105\106\087\079\113\074\076\098\108\098\071\057\049\061","\083\115\087\066\085\118\074\088\102\083\061\061";"\052\078\088\115\090\084\071\106\121\112\113\086\090\110\061\061";"\107\055\055\108\054\047\061\061";"\121\119\116\085\052\069\111\076\072\054\080\089\049\119\106\097\047\083\061\061";"\052\076\054\106\082\105\061\061";"\070\086\052\104\100\053\076\110\082\114\101\061";"\073\116\050\071\050\055\114\088","\120\083\061\061","\047\079\088\086\052\112\104\057\109\105\061\061";"\117\097\088\048\101\110\061\061","\117\097\088\116\052\112\111\113\072\105\061\061","\111\078\113\102\101\079\088\086\052\112\104\057\109\105\061\061","\082\054\086\090\110\078\049\113\085\053\105\072","\072\112\085\070\100\052\053\105\108\085\070\101\110\115\114\049\074\117\047\061","\117\097\088\085\090\117\111\115\109\078\054\068\052\078\098\061";"\049\099\090\053\087\098\082\083\051\110\061\061";"\098\069\090\057\098\122\108\070\069\055\071\065\076\117\098\050\076\105\061\061";"\101\048\113\106\090\047\061\061";"\121\112\054\086\090\078\088\085","\052\097\080\103\109\117\115\082\076\078\054\047\076\054\121\107\090\048\043\061","\109\119\097\079\111\078\116\054\049\097\111\119\090\048\108\086","\090\079\097\115\109\078\071\070";"","\119\080\088\103\110\048\121\061","\048\082\067\120\113\111\104\115\100\116\107\114\084\080\100\056\083\099\113\090\083\106\101\117\053\118\109\047\087\085\112\120\090\114\090\079\082\076\088\104\114\086\100\106\089\101\087\099\057\073\089\078\112\113\101\116\084\050\080\090\053\108\086\083\076\066\120\112\116\052\054\053\071\112\049\055\086\104\043\100\049\071\087\090\054\110\061\061","\069\117\054\081\052\054\108\069\090\079\103\101\098\113\111\085\072\048\105\061";"\111\079\104\106\047\117\111\106\121\112\113\068\109\117\111\113","\090\117\108\107\052\122\043\061","\090\122\071\097\101\083\061\061","\121\078\071\115\052\078\110\061";"\111\079\104\106\098\079\104\107\109\112\113\057\090\047\061\061";"\069\112\104\122\104\078\088\048\090\079\103\113","\121\079\104\106\052\076\104\106\101\117\111\115\101\112\103\113","\101\079\088\086\101\079\054\106","\082\073\067\082\120\068\089\081\098\074\112\047\097\052\106\053\051\105\061\061";"\098\079\104\086\090\055\097\051\109\117\071\113\047\048\104\106\109\078\088\086\111\117\090\113\052\048\047\061","\085\114\118\071\105\086\067\110\065\069\070\061";"\098\106\097\074\076\089\105\097\109\076\047\097\049\102\113\117\090\112\043\061";"\111\112\113\086\090\055\090\116\121\048\071\106\047\079\115\116\052\078\047\061";"\069\112\104\122\104\078\054\068","\052\089\043\061";"\100\057\085\070\106\080\066\067\069\054\079\081";"\111\079\104\106\047\117\111\106\121\112\113\068\109\117\111\113\047\079\115\115\052\112\109\113\090\054\071\116\090\079\050\115\052\105\061\061","\082\119\111\068\104\106\070\102\071\106\113\087\069\122\109\103\121\110\061\061";"\121\078\097\110\101\098\111\107\101\106\116\100\047\069\104\084\049\105\061\061";"\109\079\088\107\082\122\071\110\101\076\071\113";"\111\079\104\106\047\079\115\116\052\078\111\107\090\076\075\061";"\090\079\054\085\090\047\061\061";"\104\078\054\085\121\078\104\107\043\055\111\113\109\078\104\057\109\078\104\119\043\047\061\061";"\070\066\108\100\120\047\121\076\052\051\115\073";"\103\078\050\083\101\119\111\082\080\072\107\078\102\047\061\061";"\121\112\104\085\052\122\090\113","\120\068\083\113\090\118\070\116\120\083\061\061";"\056\117\057\090\101\105\117\073\089\075\048\098\118\105\061\061";"\070\105\103\097\049\101\099\053";"\121\079\119\097\109\098\085\117\104\048\115\081\082\055\090\084\072\117\119\061","\109\078\088\086\109\076\097\068\090\117\043\061";"\115\083\052\048\072\089\088\106\098\050\118\102";"\109\078\088\102\109\084\108\116\052\112\121\061","\087\057\054\070\098\055\108\118\090\117\090\071\121\119\088\118\047\110\061\061";"\121\122\111\107\082\076\050\048","\052\078\104\086";"\121\069\113\111\069\048\109\076\111\048\111\057\104\102\055\122\071\110\061\061";"\052\089\055\061";"\071\084\113\117\047\079\111\048\104\106\113\076\098\079\050\054\047\076\049\061","\109\078\054\068\052\078\098\061","\111\072\072\074\107\115\052\090\112\083\061\061","\080\073\099\118\097\101\110\055\110\114\108\080\067\048\070\061";"\101\079\115\115\121\083\061\061","\117\097\088\099\090\076\075\061";"\101\097\115\070\121\048\111\089\082\048\115\115\111\054\098\102\052\083\061\061","\098\113\108\074\071\106\050\051\090\079\047\061";"\101\113\104\069\104\106\071\080","\087\084\111\106\121\055\109\113\109\105\061\061";"\121\048\071\077\052\069\111\117\101\076\050\049\076\089\113\079";"\052\110\055\103\067\053\117\110\103\068\056\112\108\050\084\102\066\103\043\047\103\100\047\110\108\106\080\107\079\088\077\104\056\055\070\053\078\047\061\061";"\052\069\109\070\087\078\050\051\121\054\071\079\090\057\080\076\104\083\061\061","\090\102\113\086\087\078\104\099\047\119\111\099\071\069\109\113";"\103\088\108\087\078\043\082\109\074\104\068\055\108\067\109\081\073\084\104\121\057\074\079\113\099\105\061\061","\119\108\082\078\109\083\061\061","\102\047\055\086\053\083\061\061";"\097\043\065\103\109\083\056\074\081\084\073\104\104\047\061\061";"\076\078\071\047\121\122\071\090\052\079\088\113\098\057\111\099";"\109\098\108\043\101\106\113\115\049\119\070\050\071\079\088\113\111\055\073\061";"\054\106\086\085\111\048\089\073\117\074\085\116";"\098\119\109\070\121\078\115\115\047\112\109\101\104\054\113\110\069\083\061\061","\047\079\066\089\065\083\115\113\075\087\081\052";"\069\112\104\122\098\079\104\057\109\078\113\051\052\083\061\061","\049\097\108\075";"\090\112\103\051\052\122\043\061","\087\074\079\050\082\048\056\051\097\097\121\061";"\047\119\103\049\072\113\104\119\082\078\097\079\121\106\085\089\076\105\061\061"}local function f(f)return x[f+(-524926+568771)]end for f,o in ipairs({{-806572-(-806573);56636-56535},{937276+-937275,413478+-413378},{-775402+775503,649647-649546}})do while o[659503+-659502]<o[-37150+37152]do x[o[471978-471977]],x[o[312718-312716]],o[-1027226+1027227],o[-368482-(-368484)]=x[o[-453354-(-453356)]],x[o[-995796-(-995797)]],o[-979258+979259]+(-228781+228782),o[14797-14795]-(684657+-684656)end end do local f={r=1020013-1019954,b=-24389-(-24409),k=362993-362943,["\057"]=-197374+197409;["\054"]=24819+-24814,v=772904-772902;["\050"]=-197837-(-197894),U=-288535+288580;s=-621009+621042,R=705455+-705429;["\043"]=726077-726069;l=-1016057+1016066,u=582205-582182,Z=-553387-(-553412),W=-1022457+1022475;["\049"]=842926+-842914,["\055"]=1011033+-1011029;["\051"]=804934+-804887;M=-449819-(-449861),E=843664+-843645;f=-909655-(-909706);O=-607053-(-607107);S=619944+-619912;d=665159+-665149;F=47902-47862,P=-237866-(-237867),w=-104085-(-104121),H=-776783+776813;c=248069-248025,["\053"]=881725+-881662,T=-307766-(-307773);N=-801256-(-801262);["\052"]=72066+-72039;A=-439815+439826;m=688106+-688077;V=361311-361265,L=-343855-(-343877);a=-104733+104786,g=490259+-490210;p=-248882-(-248920),["\048"]=222864+-222825;K=-791196+791252;X=-755855+755916,I=23991-23931,q=269732+-269695;n=-893024-(-893072),J=70502+-70444,G=330968+-330955;Y=-313221-(-313224);e=-811818-(-811842);D=17457-17423,x=299442+-299428;["\047"]=-266295-(-266311);B=432055+-432040,C=506889-506858;t=802846+-802805;y=-203699+203727;o=837915+-837898;i=890700+-890700,["\056"]=845468+-845406;Q=994347+-994304,z=128510+-128455;h=-432117-(-432138);j=-75127+75179}local o=table.insert local v=string.char local O=string.len local e=math.floor local k=string.sub local X=table.concat local C=type local l=x for x=-881169+881170,#l,-31741+31742 do local g=l[x]if C(g)=="\115\116\114\105\110\103"then local C=O(g)local J={}local b=-440121+440122 local n=293703-293703 local Z=-587701+587701 while b<=C do local x=k(g,b,b)local O=f[x]if O then n=n+O*(722767+-722703)^((1025096-1025093)-Z)Z=Z+(567298-567297)if Z==801647-801643 then Z=-160618-(-160618)local x=e(n/(81748+-16212))local f=e((n%(-603839-(-669375)))/(875309-875053))local O=n%(408816+-408560)o(J,v(x,f,O))n=-614532+614532 end elseif x=="\061"then o(J,v(e(n/(149131+-83595))))if b>=C or k(g,b+(-169176-(-169177)),b+(904177+-904176))~="\061"then o(J,v(e((n%(-706201-(-771737)))/(294782-294526))))end break end b=b+(-889207-(-889208))end l[x]=X(J)end end end return(function(x,v,O,e,k,X,C,g,b,l,Z,c,P,o,J,n,I,L,p,H,V,B)n,J,o,H,P,p,I,V,l,Z,b,B,L,c,g=function(x)for f=544535-544534,#x,367349-367348 do g[x[f]]=g[x[f]]+(-987087+987088)end if O then local o=O(true)local v=k(o)v[f(335420+-379246)],v[f(717010+-760837)],v[f(-907648+863881)]=x,Z,function()return 2186711-778313 end return o else return e({},{[f(290868+-334695)]=Z;[f(-555402-(-511576))]=x,[f(-322989-(-279222))]=function()return 52767+1355631 end})end end,function()b=b+(-539314+539315)g[b]=-531754+531755 return b end,function(o,O,e,k)local m,M,d,G,w,t,S,y,b,g,W,Z,q,a,U,n,Y,C,s,A,D,K,j,T,R,i,N,r,E,u,z,P,F,h while o do if o<-420520+7495169 then if o<3215413-(-641591)then if o<-144357+1919712 then if o<772374+377151 then if o<-636101-(-1031083)then if o<-274281-(-471384)then if o<758175+-656766 then o=x[f(948171-991964)]C={P}else b=l[e[-558354+558356]]n=174988-174891 g=b*n b=-105742+12668641948697 C=g+b g=1040991+35184371047841 o=C%g l[e[-150125-(-150127)]]=o g=l[e[508443+-508440]]b=-617641+617642 C=g~=b o=170442+7259697 end else if o<824493+-534003 then n=l[e[-544927-(-544929)]]G=201754140989-975072 m=f(750485+-794280)P=l[e[-468561-(-468564)]]M=l[e[12363+-12359]]R=M(m,G)Z=P[R]b=n[Z]P=l[e[302320+-302317]]M=l[e[-4139+4143]]G=32551777394433-680907 m=f(263637+-307479)R=M(m,G)n=f(-481971-(-438173))n=b[n]Z=P[R]n=n(b,Z)o=4820417-17329 g=n else b=l[e[-125630-(-125631)]]P=61066-61064 Z=-678890-(-678891)n=b(Z,P)b=-934367+934368 g=n==b o=g and 14232569-(-763604)or 2798812-(-799306)C=g end end else if o<1935097-854685 then if o<852133+47267 then G=l[e[-870964+870969]]m=not G M=m R=o o=m and 79831+4734106 or 816403+2843802 else C=f(-951986+908206)o=x[C]m=f(-374735-(-330928))Z=f(-812074-(-768296))G=p(9958057-(-575133),{})g=l[e[-663422+663426]]n=x[Z]R=x[m]m={R(G)}R=150677+-150675 M={v(m)}P=M[R]Z=n(P)n=f(631240+-675024)b=g(Z,n)g={b()}C=o(v(g))g=C b=l[e[641084-641079]]o=b and 1247718-(-559912)or 9671801-(-453394)C=b end else n=759885+13108968 b=f(859790+-903538)g=b^n C=891522+5423377 o=C-g g=o C=f(-88566+44802)o=C/g C={o}o=x[f(-525877-(-482060))]end end else if o<777196-(-797279)then if o<159994+1193538 then if o<707952-(-559618)then o=171630+16055150 else o=x[f(292437+-336274)]C={}end else if o<-362280+1863496 then m=f(92261-136032)R=f(179162+-222994)M=C C=x[R]R=f(-435042+391224)o=C[R]R=J()l[R]=o C=x[m]N=f(-815306-(-771535))m=f(-53005-(-9202))o=C[m]D=o z=x[N]G=z m=o o=z and 2796923-(-213611)or 181062+5599431 else o=662072+6451307 end end else if o<2005275-297777 then if o<1823884-143760 then D=f(-602231-(-558395))R=l[e[717094-717091]]Z=o m=l[e[663787-663783]]z=20481727688244-(-472845)G=m(D,z)M=R[G]P=b[M]o=P and 806212+8240844 or 901036+15250685 n=P else M=5454993198997-935337 P=f(-1025650+981868)o=l[e[-373175+373177]]C=o()o=f(-270174+226380)b=l[e[-976520-(-976523)]]n=l[e[659855-659851]]Z=n(P,M)C=b[Z]o=g[o]o=o(g,C)b=H(6855597-128325,{e[-400453-(-400458)]})C=f(-1041085-(-997257))C=o[C]C=C(o,b)o=x[f(667442+-711208)]l[e[772317+-772311]]=C C={}g=nil end else d=nil q={}i=J()Y={}u=p(10820082-74742,{i;G,D,P})M=nil m=nil l[i]=q z=nil K=f(-630743-(-586939))w=f(-396495+352673)y=f(424893-468719)n=nil a=J()q=J()l[q]=u T=nil P=V(P)u={}l[a]=u u=x[K]h=l[a]U={[y]=h;[w]=d}K=u(Y,U)R=nil R=f(880022-923811)u=B(785550+9613293,{a;i,N,G,D;q})l[Z]=K q=V(q)P=f(-506989-(-463154))l[b]=u a=V(a)N=V(N)n=x[P]i=V(i)o=x[f(-70722-(-26923))]N=f(743102+-786914)D=V(D)T=-370869+32383906636700 C={}G=V(G)M=x[R]G=l[Z]D=l[b]z=D(N,T)m=G[z]G=f(525416+-569179)G=M[G]R={G(M,m)}U=25421165465043-(-254058)P=n(v(R))z=13558773834398-(-1029643)n=P()D=f(-272251+228408)T=3519440978718-(-820040)R=l[Z]Y=16043769399913-716091 m=l[b]G=m(D,z)N=-889398+18048670823178 M=R[G]P=n[M]m=l[Z]G=l[b]z=f(423249+-467032)D=G(z,N)N=f(737097+-780884)R=m[D]n=nil G=l[Z]D=l[b]z=D(N,T)m=G[z]N=8030696309764-(-428695)M=P(R,m)P=f(-822309-(-778512))z=f(1017130+-1060964)m=l[Z]G=l[b]D=G(z,N)N=f(539866-583622)P=M[P]R=m[D]P=P(M,R)G=l[Z]D=l[b]R=f(-84032+40283)R=P[R]T=33600086302367-(-433791)z=D(N,T)m=G[z]R=R(P,m)m=false D=J()G=J()l[G]=m M=nil z=p(12881066-(-739920),{Z;b,D})N=p(3789052-(-777204),{D})m=nil l[D]=m m=J()l[m]=z z=J()l[z]=N q=l[Z]D=V(D)a=f(218358-262110)i=l[b]u=i(a,Y)T=q[u]Y=f(-1044467-(-1000706))P=nil i=l[Z]u=l[b]a=u(Y,U)q=i[a]N=f(-519680+475875)i=L(825899+4759933,{G,m;z})G=V(G)N=R[N]N=N(R,T,q,i)m=V(m)b=V(b)z=V(z)Z=V(Z)R=nil end end end else if o<2210348-(-806369)then if o<-176171+2784782 then if o<177278+1793622 then if o<-186600+1988961 then i=#T u=-266581+266581 q=i==u o=q and 2503643-782018 or 12914009-(-174227)else n=l[e[-912182-(-912188)]]b=n==g o=11072483-947288 C=b end else if o<933178+1371263 then o=738971+6599657 D=f(263719-307559)G=x[D]C=G else o=4712317-(-445604)end end else if o<-703614+3618334 then if o<881258+2007135 then o={}l[e[-258332+258334]]=o o=7342563-(-935301)m=f(-649165-(-605389))C=l[e[743675-743672]]Z=C P=351238+35184371737594 C=b%P R=-832569-(-832824)l[e[-166555+166559]]=C M=b%R R=569853-569851 P=M+R l[e[437759+-437754]]=P D=-593328-(-593329)R=x[m]m=f(-182152+138377)z=D M=R[m]R=M(g)M=f(865610-909424)D=588377-588377 n[b]=M G=R M=701397+-701265 m=123347-123346 N=z<D D=m-z else o=l[e[188008+-188001]]o=o and 559303+8819170 or 6507807-(-214703)end else o=533293+5247200 T=f(941318+-985089)N=x[T]T=f(66977+-110817)z=N[T]G=z end end else if o<-328942+3900992 then if o<-534247+3952674 then if o<3340475-232650 then b=l[e[621942+-621939]]n=-878428+878460 g=b%n Z=l[e[-194966+194970]]o=1009938+14666859 z=999470+-999457 G=-795353-(-795355)R=l[e[-804978+804980]]q=l[e[-672033+672036]]T=q-g q=842759+-842727 N=T/q D=z-N m=G^D M=R/m m=-224743+224744 P=Z(M)Z=597827+4294369469 n=P%Z P=426722+-426720 z=-139851+140107 Z=P^g b=n/Z Z=l[e[612785-612781]]R=b%m m=4294886874-(-80422)M=R*m P=Z(M)Z=l[e[-891355+891359]]M=Z(b)n=P+M P=-88719-(-154255)Z=n%P M=n-Z R=530867-465331 P=M/R G=79003+-78747 b=nil R=-408582+408838 M=Z%R m=Z-M R=m/G G=253041+-252785 Z=nil m=P%G g=nil D=P-m P=nil G=D/z D={M;R,m,G}n=nil M=nil m=nil l[e[140010+-140009]]=D G=nil R=nil else b,P=n(g,b)o=b and 6340029-(-697825)or 393277+958343 end else if o<3761634-239063 then l[b]=E o=l[b]o=o and 11800199-414294 or-449368+15827379 else o=x[f(962992-1006745)]C={}end end else if o<39508+3674671 then if o<3636499-(-6265)then b=l[e[-971649-(-971651)]]n=l[e[-122877+122880]]g=b==n C=g o=14312460-(-683713)else C=M o=R o=12516292-(-975672)end else b=l[e[388845+-388842]]n=811779+-811778 g=b~=n o=g and-655677+3701752 or-300721+7730860 end end end end else if o<5879395-498694 then if o<5130232-471585 then if o<4370685-41119 then if o<-438568+4620090 then if o<-334525+4486087 then r=150489-150488 u=-572823-(-572829)o=l[R]W=o(r,u)o=f(-94232+50436)x[o]=W u=f(19974+-63770)r=x[u]u=429339-429337 o=r>u o=o and-607292+11059882 or-129365+14612295 else n=not g o=-9745+7323492 C=n end else if o<4027512-(-254072)then o=A o=10139541-553001 C=s else o=true o=o and 75441+8804152 or-905189+17503650 end end else if o<217547+4380514 then if o<3812928-(-745707)then o=x[f(377353+-421107)]C={}else o=l[e[-344170-(-344171)]]o=o and 8862471-(-828115)or 9804351-39897 end else o=l[e[-829344+829345]]C=o()m=f(-880879+837100)n=l[e[-653382+653384]]P=l[e[536125+-536122]]G=29891518426968-1014009 M=l[e[-136674+136678]]R=M(m,G)Z=P[R]b=n[Z]g=b o=b and 863292-651119 or 5755020-951932 end end else if o<-173199+5300918 then if o<4460247-(-346350)then if o<3902676-(-848983)then A=l[b]o=A and-1023138+11181262 or 15498510-(-654229)s=A else b=C n=not b C=n o=n and 7028044-(-285703)or 4553437-400958 end else if o<-304289+5195885 then o=4160530-500325 G=1022859+-1022859 m=n>G M=m else C={}o=x[f(-640762-(-596985))]end end else if o<4726722-(-440562)then if o<-644100+5780697 then S=166-164 F=w[S]S=l[h]o=-663100+4855007 d=F==S s=d else o=true o=o and 16809929-1005017 or 6595179-(-373361)end else A=o S=349024-349023 F=w[S]S=false d=F==S o=d and-1008399+6139495 or 854547+3337360 s=d end end end else if o<7153388-505789 then if o<-382646+6421178 then if o<-452493+6207739 then if o<6289598-668027 then g=O[-90259+90260]o=g l[e[564466+-564465]]=o o=g and 12409931-(-691294)or 9554879-832405 else u=641783-641783 i=#T o=-674482+13762718 q=i==u end else if o<218409+5686907 then o=D o=G and 7153929-(-184699)or 1943120-(-345124)C=G else W=z==N o=-522182+4028284 E=W end end else if o<7088335-762499 then if o<-148369+6347115 then q=nil Z=V(Z)T=nil D=V(D)G=V(G)b=V(b)N=nil n=V(n)N=J()n=nil z=nil b=nil P=V(P)M=nil i=V(i)m=nil M=f(498284+-542116)Z=J()R=V(R)l[Z]=b m=f(485480+-529251)b=J()l[b]=n T={}D=J()P=x[M]M=f(272242-315989)n=P[M]P=J()l[P]=n i=-235627+235883 R=f(755181-799013)M=x[R]z={}R=f(-731564+687746)u=i n=M[R]G=f(768698-812474)R=x[m]m=f(-587250-(-543465))M=R[m]i=-212050-(-212051)m=x[G]G=f(-197423+153655)a=i i=479165-479165 R=m[G]G=J()m=1000370-1000370 l[G]=m m=259090-259088 l[D]=m q=-647056+647057 K=a<i m={}l[N]=z z=1004653+-1004653 i=q-a o=676075+6857434 else o=true o=o and-122364+4268859 or 3986338-414379 end else s=l[b]C=s o=s and 4207025-(-966468)or-585591+10172131 end end else if o<605541+6207400 then if o<-710413+7433239 then if o<5753277-(-959917)then C={}g=nil o=x[f(-360270-(-316508))]else b=-140591-(-140592)n=l[e[-519890-(-519899)]]o={}g=o Z=n n=868362-868361 P=n n=561018+-561018 M=P<n n=b-P o=123118+7756684 end else o=false l[e[612704+-612703]]=o C={}o=x[f(786917-830691)]end else if o<-550595+7566424 then if o<612998+6352566 then C=f(526311+-570136)o=l[e[-1045060+1045061]]C=o[C]C=C(o)o=nil l[e[466094-466093]]=o o=-123628+5250744 else o=x[f(-1017755+974004)]C={}end else z=8241643443942-428009 o=f(204576+-248386)Z=b R=l[e[-587982+587983]]D=f(964786-1008586)m=l[e[91746+-91744]]G=m(D,z)M=R[G]o=P[o]o=o(P,M)o=o and 992047-912143 or 11109238-136146 end end end end end else if o<10794871-121189 then if o<-980220+10143540 then if o<7306179-(-1042907)then if o<974701+6464859 then if o<-667625+7983111 then if o<-1015661+8293809 then Z=nil n=nil g=nil b=nil o=x[f(897149-940965)]C={}else o=C and 3779478-(-723004)or 933338+733388 end else if o<7061449-(-282287)then G=J()l[G]=C z=-376452-(-376517)o=l[R]D=410468+-410465 q=I(-1022742+2154411,{})C=o(D,z)r=f(955023+-998801)o=-711266-(-711266)D=J()l[D]=C z=o T=f(197597+-241404)C=x[T]T={C(q)}o=-208436-(-208436)N=o o={v(T)}T=o C=-768534-(-768536)o=T[C]C=f(-907414+863634)q=o o=x[C]i=l[n]W=x[r]r=W(q)W=f(-308781-(-264997))E=i(r,W)i={E()}C=o(v(i))i=J()l[i]=C E=l[D]W=E C=992016-992015 E=-436705-(-436706)r=E E=-113504+113504 o=8892598-128233 u=r<E E=C-r else b=l[e[-47112+47115]]o=4340406-571871 n=826871+-826716 g=b*n b=-774107+774364 C=g%b l[e[-728356-(-728359)]]=C end end else if o<-438120+8427848 then if o<194723+7532335 then Y=not K i=i+a q=i<=u q=Y and q Y=i>=u Y=K and Y q=Y or q Y=9568106-739806 o=q and Y q=5844171-166848 o=o or q else n=n+P R=not M b=n<=Z b=R and b R=n>=Z R=M and R b=R or b R=-368789+10869218 o=b and R b=519600+9759199 o=o or b end else D=D+z m=D<=G T=not N m=T and m T=D>=G T=N and T m=T or m T=8862368-304054 o=m and T m=857799+13385574 o=o or m end end else if o<8905053-82983 then if o<268289+8329965 then if o<8708567-187333 then o=l[e[-89867-(-89868)]]C=o()g=C o=not g o=o and-351088+10199563 or 1646838-(-43375)else m=D r=f(332700+-376476)W=x[r]r=f(-889048-(-845229))E=W[r]W=E(g,m)o=-554064+8831928 E=l[e[-1020781+1020787]]r=E()i=W+r q=i+M i=-664728+664984 r=796910-796909 T=q%i M=T i=n[b]W=M+r E=Z[W]q=i..E n[b]=q m=nil end else if o<-443215+9198492 then C=l[e[316889+-316886]]o=6218247-(-449016)b=C()else E=E+r a=not u C=E<=W C=a and C a=E>=W a=u and a C=a or C a=-1023668+14447404 o=C and a C=9914639-129456 o=o or C end end else if o<159909+8785792 then if o<9494838-631587 then o=-990666+8524175 q=i Y=q T[q]=Y q=nil else o=-212557+6448489 end else G=l[e[-279815+279818]]T=18191878685491-369180 D=l[e[344538-344534]]N=f(-696151+652330)z=D(N,T)m=G[z]R=b[m]G=l[e[741033-741030]]D=l[e[10882+-10878]]N=f(-967135-(-923312))T=322391+23643614150570 z=D(N,T)N=611717+22152013484742 m=G[z]z=f(-565799+521975)M=R[m]o=16194816-43095 m=l[e[-214041-(-214044)]]G=l[e[-881822-(-881826)]]D=G(z,N)R=m[D]P=M[R]n=P end end end else if o<-342865+10481963 then if o<-190064+9967842 then if o<-736307+10352251 then if o<10125216-616238 then g=f(845631-889440)o=x[g]b=l[e[28089+-28081]]n=-848443-(-848443)g=o(b,n)o=7295777-573267 else l[b]=C o=10664186-(-976473)end else if o<9896689-171907 then o=l[e[569828+-569827]]C=f(-463095+419270)C=o[C]C=C(o)o=nil l[e[234883+-234882]]=o o=173983+9590471 else C={}o=x[f(-296600-(-252840))]end end else if o<-997305+11033537 then if o<10337267-527874 then W=l[b]E=W o=W and 5597993-(-401544)or 4169989-663887 else C={}o=x[f(-461497-(-417752))]end else o=3741961-838010 g=nil l[e[-898982-(-898987)]]=C end end else if o<967194+9526230 then if o<10068694-(-239920)then if o<-449826+10687806 then d=-592292-(-592293)A=w[d]o=-681737+16834476 s=A else o=l[e[874310-874300]]b=l[e[-297096+297107]]g[o]=b o=l[e[394383+-394371]]b={o(g)}o=x[f(-368797-(-325005))]C={v(b)}end else if o<10861524-431298 then o=l[e[-987840-(-987841)]]b=O[-881298-(-881300)]g=O[483952+-483951]n=o o=n[b]o=o and 827014-(-328122)or 2488427-(-392563)else a=f(406871+-450644)r=f(901539+-945317)o=x[r]u=x[a]r=o(u)o=f(524498+-568294)x[o]=r o=-1037507+13055408 end end else if o<822266+9732895 then if o<-789802+11314082 then b=n o=l[e[-922527-(-922528)]]G=141606-141351 m=-801764-(-801764)R=o(m,G)o=-770065+8649867 g[b]=R b=nil else n=468594+5768948 C=-691417+5335926 b=f(993764+-1037545)g=b^n o=C-g g=o C=f(-859003-(-815238))o=C/g C={o}o=x[f(-1050689-(-1006930))]end else o=true l[e[278293+-278292]]=o o=x[f(348978-392789)]C={}end end end end else if o<62734+13571904 then if o<-729001+12832971 then if o<-929196+12353177 then if o<-186312+11131816 then if o<10273872-(-599678)then g=l[e[-674077+674078]]C=#g g=796774-796774 o=C==g o=o and 924483-727907 or 15473627-(-203170)else g=f(-572226+528438)C=f(-440645-(-396836))o=x[C]C=o(g)C={}o=x[f(-351711-(-307891))]end else if o<10135417-(-886216)then Z=nil o=-700385+3838821 P=nil else o=5487301-(-610731)end end else if o<57454+11620670 then if o<1022430+10558428 then G=f(-211566-(-167722))C=f(724198-768036)P=f(-468689+424898)D=-833219+2262457973472 o=x[C]Z=x[P]M=l[e[-462660-(-462661)]]R=l[e[154797-154795]]m=R(G,D)P=M[m]n=Z[P]P=f(-198256-(-154466))P=n[P]Z={P(n)}n={o(v(Z))}C=n[432897+-432896]g=n[-563427+563429]b=n[128976+-128973]o=2601876-(-536560)n=C else o=8558062-(-206303)K=V(K)a=V(a)Y=V(Y)y=V(y)U=V(U)w=nil h=V(h)end else o=60385+6175547 end end else if o<840173+12638075 then if o<12868804-(-221447)then if o<201002+12877398 then M=l[P]o=1622780-267782 C=M else o=754930-(-1027608)i=838231+-838230 u=#T Y=935590+-935589 q=n(i,u)i=M(T,q)u=l[N]q=nil K=i-Y a=R(K)u[i]=a i=nil end else if o<12351949-(-910155)then C=l[e[-195858-(-195860)]]o=5888750-(-778513)b=C()else a=J()Y=-14440+14540 K=f(763275+-807107)l[a]=E C=x[K]w=-679638+679640 K=f(107514-151332)t=487873-487873 d=f(362970-406748)o=C[K]K=-480180+480181 C=o(K,Y)K=J()l[K]=C Y=-180265-(-180265)U=-884900+885155 o=l[R]h=-655009-(-655010)C=o(Y,U)Y=J()U=839271-839270 l[Y]=C o=l[R]y=l[K]C=o(U,y)U=J()l[U]=C C=l[R]y=C(h,w)C=-892183-(-892184)o=y==C y=J()w=f(531029-574858)C=f(-233909-(-190125))l[y]=o A=x[d]F=l[R]j=-679752+689752 o=f(-146029+102221)S={F(t,j)}d=A(v(S))o=q[o]A=f(821488+-865317)s=d..A h=w..s o=o(q,C,h)h=J()s=p(-337885+699405,{R;a,D;n,b;i,y;h,K;U,Y,G})l[h]=o w=f(260814-304621)C=x[w]w={C(s)}o={v(w)}w=o o=l[y]o=o and 5554144-(-1003755)or 5307463-646891 end end else if o<14511958-1012551 then if o<12925119-(-558973)then M=.55 P=Z/n C=P<=M o=C and-699604+14353463 or 1286721-(-252271)else o=P o=C and 366833+13114899 or-61022+7174401 end else R=-524822+1760192300361 P=f(-85450+41664)C=f(-359578-(-315789))o=x[C]M=-959690+28664525330669 E=-118570+34827117579907 C=f(589537-633343)b=l[e[-119860-(-119861)]]m=24530509857894-939976 n=l[e[212754-212752]]Z=n(P,M)g=b[Z]C=o[C]C=C(o,g)g=C C=f(-509898+466109)o=x[C]C=f(237435+-281241)n=l[e[-665443-(-665444)]]M=f(-447457-(-403687))Z=l[e[-725866+725868]]C=o[C]P=Z(M,R)b=n[P]C=C(o,b)b=C C=f(722272-766061)o=x[C]z=f(582923-626714)Z=l[e[-240454-(-240455)]]R=f(-877922+834164)P=l[e[-181933-(-181935)]]C=f(-473219-(-429413))M=P(R,m)m=823413+10836939195201 C=o[C]n=Z[M]R=f(-61500-(-17731))C=C(o,n)n=J()l[n]=C Z=l[e[-321612-(-321613)]]P=l[e[-296865+296867]]M=P(R,m)C=Z[M]o=b[C]M=J()C=f(276494-320238)P=J()Z=J()l[Z]=o o=x[C]i=f(372217-416030)R=J()C=o()b=nil m=J()o=false G=J()l[P]=C l[M]=o o=nil l[R]=o o=I(11368845-(-64788),{e[255294-255293],e[74358-74356]})l[m]=o o=p(59693+15697554,{R})l[G]=o D=x[z]N=l[e[-560518-(-560519)]]T=l[e[301268+-301266]]q=T(i,E)z=N[q]C=D[z]z=l[e[476941+-476940]]N=l[e[78025-78023]]q=f(-66198-(-22443))i=29075696328053-(-1021806)T=N(q,i)D=z[T]o=C[D]D=L(647401+7853159,{m,G,e[708775-708774];e[244303-244301],M,R})q=993973+21047336893331 C=f(670491-714319)C=o[C]C=C(o,D)D=l[e[195058+-195057]]z=l[e[-533795+533797]]T=f(-304759-(-260957))N=z(T,q)C=D[N]D=c(3575714-(-1030345),{m;Z,e[917961-917960];e[928803+-928801];M;n,P})o=g[C]C=f(397295-441123)P=V(P)C=o[C]G=V(G)m=V(m)C=C(o,D)l[e[-448818-(-448821)]]=C M=V(M)C={}o=x[f(-283718+239877)]R=V(R)Z=V(Z)g=nil n=V(n)end end end else if o<-161971+15907697 then if o<14157165-(-757266)then if o<565268+13586612 then if o<14177467-337773 then C=l[e[-677709+677715]]m=-626429+626429 M=350641-350641 G=true z=f(-16567-27222)D=x[z]P=f(219277-263078)P=C[P]z=234107+-234107 o=-124009+1663001 R=195895-195895 P=P(C,M,R,m,G,D,z)M=f(927376-971120)C=true l[e[-443333-(-443338)]]=C P=x[M]M=P()l[e[-710621-(-710628)]]=M else P=J()R=f(765401+-809208)b=J()g=O o=true n=f(490536+-534312)Z=J()l[b]=o C=x[n]m=H(864490+9704824,{P})n=f(823903-867718)o=C[n]n=J()l[n]=o o=B(11267066-321790,{})l[Z]=o o=false l[P]=o M=x[R]R=M(m)C=R o=R and 11824373-(-489860)or 987161-(-367837)end else if o<13489177-(-817181)then R=nil o=-962424+17189204 Z=nil M=nil else u=f(-342365+298569)o=x[u]u=f(-9511+-34262)x[u]=o o=1028862+10989039 end end else if o<15148938-(-309173)then if o<760739+14548840 then o=C and 144962+774342 or 692230+2211721 else o=true o=-923339+17521800 end else n=f(289629-333400)b=x[n]n=f(-190779+146994)g=b[n]n=l[e[-426170+426171]]b={g(n)}C={v(b)}o=x[f(-776966-(-733194))]end end else if o<15375571-(-777057)then if o<16044469-(-13964)then if o<-438105+16219151 then o=l[e[-1034942+1034943]]o=o and-707295+7672635 or 4269071-(-858045)else C=f(856852-900648)g=f(-1033345-(-989572))o=x[C]C=x[g]g=f(-366173+322400)x[g]=o g=f(738625+-782421)x[g]=C g=l[e[-222863-(-222864)]]b=g()o=5316764-158843 end else i=-356450+29625515697733 o=Z R=l[e[-190616-(-190619)]]D=f(-372661-(-328830))m=l[e[-644658-(-644662)]]Z=-223992-(-223992)C=n or Z z=29939005185477-59216 G=m(D,z)M=R[G]n=C P=g[M]m=l[e[328403+-328400]]N=-511784+16208438733987 G=l[e[659627+-659623]]z=f(-421865-(-378119))D=G(z,N)R=m[D]M=b[R]Z=P-M M=l[e[179447-179444]]N=f(228463+-272293)R=l[e[489680-489676]]G=f(390328-434078)D=1042619+10457808169546 m=R(G,D)q=f(-234262+190505)R=f(-730451+686641)P=M[m]C=Z[P]Z=C R=b[R]G=l[e[751628-751625]]D=l[e[-822728-(-822732)]]T=12752524104392-228246 z=D(N,T)m=G[z]R=R(b,m)G=l[e[-421454-(-421456)]]z=l[e[-1035190-(-1035193)]]P=o N=l[e[-629921+629925]]T=N(q,i)D=z[T]m=G[D]M=R==m C=M o=M and-354264+1251537 or 14331670-839706 end else if o<15465313-(-862806)then if o<16054643-(-141378)then t=-512172-(-512173)l[b]=s S=l[U]F=S+t d=w[F]A=z+d d=-257042+257298 o=A%d z=o F=l[Y]o=244725+11395934 d=N+F F=-793387+793643 A=d%F N=A else o=x[f(797723-841562)]C={b}end else o=I(2459808-150986,{Z})W={o()}C={v(W)}o=x[f(-247324-(-203491))]end end end end end end end o=#k return v(C)end,function(x,f)local v=n(f)local O=function(O,e,k,X,C)return o(x,{O,e,k,X,C},f,v)end return O end,function(x,f)local v=n(f)local O=function(...)return o(x,{...},f,v)end return O end,function(x,f)local v=n(f)local O=function(O,e,k)return o(x,{O;e,k},f,v)end return O end,function(x,f)local v=n(f)local O=function()return o(x,{},f,v)end return O end,function(x)g[x]=g[x]-(-443075+443076)if-540596+540596==g[x]then g[x],l[x]=nil,nil end end,{},function(x)local f,o=-55074-(-55075),x[64602-64601]while o do g[o],f=g[o]-(103844+-103843),f+(959741-959740)if 1026277-1026277==g[o]then g[o],l[o]=nil,nil end o=x[f]end end,-970801+970801,function(x,f)local v=n(f)local O=function(O,e,k,X)return o(x,{O,e,k,X},f,v)end return O end,function(x,f)local v=n(f)local O=function(O)return o(x,{O},f,v)end return O end,function(x,f)local v=n(f)local O=function(O,e)return o(x,{O;e},f,v)end return O end,{}return(P(13147040-(-852122),{}))(v(C))end)(getfenv and getfenv()or _ENV,unpack or table[f(88920+-132760)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+
+            WindUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/Footagesus/WindUI/main/dist/main.lua"))()
+        
+WindUI:AddTheme({
+	Name                         = "Dark",
+	Accent                       = Color3.fromHex("#ffffff"),
+	Background                   = Color3.fromHex("#000000"),
+	BackgroundTransparency        = 0,
+	Outline                      = Color3.fromHex("#1f1f1f"),
+	Text                         = Color3.fromHex("#ffffff"),
+	Placeholder                  = Color3.fromHex("#3a3a3a"),
+	Button                       = Color3.fromHex("#111111"),
+	Icon                         = Color3.fromHex("#ffffff"),
+	Hover                        = Color3.fromHex("#ffffff"),
+	WindowBackground             = Color3.fromHex("#000000"),
+	WindowShadow                 = Color3.fromHex("#000000"),
+	WindowTopbarButtonIcon       = Color3.fromHex("#cccccc"),
+	WindowTopbarTitle            = Color3.fromHex("#ffffff"),
+	WindowTopbarAuthor           = Color3.fromHex("#555555"),
+	WindowTopbarIcon             = Color3.fromHex("#ffffff"),
+	TabBackground                = Color3.fromHex("#0c0c0c"),
+	TabTitle                     = Color3.fromHex("#ffffff"),
+	TabIcon                      = Color3.fromHex("#cccccc"),
+	ElementBackground            = Color3.fromHex("#0a0a0a"),
+	ElementTitle                 = Color3.fromHex("#ffffff"),
+	ElementDesc                  = Color3.fromHex("#4a4a4a"),
+	ElementIcon                  = Color3.fromHex("#cccccc"),
+	PopupBackground              = Color3.fromHex("#050505"),
+	PopupBackgroundTransparency  = 0,
+	PopupTitle                   = Color3.fromHex("#ffffff"),
+	PopupContent                 = Color3.fromHex("#999999"),
+	PopupIcon                    = Color3.fromHex("#cccccc"),
+	DialogBackground             = Color3.fromHex("#050505"),
+	DialogBackgroundTransparency = 0,
+	DialogTitle                  = Color3.fromHex("#ffffff"),
+	DialogContent                = Color3.fromHex("#999999"),
+	DialogIcon                   = Color3.fromHex("#cccccc"),
+	Toggle                       = Color3.fromHex("#ffffff"),
+	ToggleBar                    = Color3.fromHex("#1f1f1f"),
+	Checkbox                     = Color3.fromHex("#ffffff"),
+	CheckboxIcon                 = Color3.fromHex("#000000"),
+	Slider                       = Color3.fromHex("#ffffff"),
+	SliderThumb                  = Color3.fromHex("#ffffff"),
+	PageBackgroundTransparency   = 1,
+	GroupBackground              = Color3.fromHex("#0a0a0a"),
+	GroupBackgroundTransparency  = 0,
+})
+WindUI:SetTheme("Dark")
+WindUI:SetNotificationLower(true)
+
+-- ============================================================
+-- SERVICES & LOCALS
+-- ============================================================
+
+local Window = WindUI:CreateWindow({
+	Title  = "murder mystery 2",
+	Icon   = "https://imgur.com/pcC5aW1.png",
+	Author = "by timmy",
+	Folder = "ftf",
+	Theme  = "Dark",
+
+	NewElements   = true,
+	Resizable     = true,
+	HideSearchBar = false,
+
+	BackgroundImageTransparency = 0.42,
+	Background = "rbxassetid://1234",
+
+	User = {
+		Enabled   = true,
+		Anonymous = false,
+	},
+
+	
+	OpenButton = {
+		Title           = "toggle mm2",
+		CornerRadius    = UDim.new(1, 0),
+		StrokeThickness = 3,
+		Enabled         = true,
+		Draggable       = true,
+		OnlyMobile      = false,
+		Scale           = 0.7,
+		Color           = ColorSequence.new(
+			Color3.fromHex("#000000"),
+			Color3.fromHex("#000000")
+		),
+	},
+})
+
+local TabMain   = Window:Tab({ Title = "Main",   Icon = "solar:rocket-bold"  })
+local TabESP    = Window:Tab({ Title = "ESP",     Icon = "solar:eye-bold"     })
+local TabPlayer = Window:Tab({ Title = "Player",  Icon = "solar:running-bold" })
+local TabMisc   = Window:Tab({ Title = "Misc",    Icon = "solar:star-bold"    })
+
+TabMain:Select()
+
+-- ── Helpers ───────────────────────────────────────────────────────────────────
+local function getChar()
+    return LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+end
+
+local function getHRP()
+    return getChar():WaitForChild("HumanoidRootPart")
+end
+local function findPlayerWithTool(toolName)
+    for _, p in ipairs(Players:GetPlayers()) do
+        if p ~= LocalPlayer then
+            local has =
+                (p:FindFirstChild("Backpack") and p.Backpack:FindFirstChild(toolName)) or
+                (p.Character and p.Character:FindFirstChild(toolName))
+            if has then return p end
+        end
+    end
+end
+
+local function getPlayerRole(player)
+    local function hasTool(name)
+        if player:FindFirstChild("Backpack") then
+            for _, t in ipairs(player.Backpack:GetChildren()) do
+                if t:IsA("Tool") and t.Name == name then return true end
+            end
+        end
+        if player.Character then
+            for _, t in ipairs(player.Character:GetChildren()) do
+                if t:IsA("Tool") and t.Name == name then return true end
+            end
+        end
+        return false
+    end
+    if hasTool("Knife") then return "Murderer" end
+    if hasTool("Gun")   then return "Sheriff"  end
+    return "Innocent"
+end
+
+-- ── Shoot helper ──────────────────────────────────────────────────────────────
+local function shootAtTarget(target)
+    if not (target and target.Character and target.Character:FindFirstChild("HumanoidRootPart")) then return end
+    local gun = getChar():FindFirstChild("Gun")
+    if not gun then
+        WindUI:Notify({ Title = "Sheriff", Content = "Equip the Gun first!" })
+        return
+    end
+    local myHRP            = getChar():FindFirstChild("HumanoidRootPart")
+    local originAttachment = myHRP and myHRP:FindFirstChild("GunRaycastAttachment")
+    local originCFrame     = originAttachment and originAttachment.WorldCFrame or nil
+    local enemyHRP         = target.Character.HumanoidRootPart
+    local velocity         = enemyHRP.Velocity
+    local pingMs           = 0
+    local stats            = game:GetService("Stats")
+    if stats:FindFirstChild("Network") and stats.Network:FindFirstChild("ServerStatsItem") then
+        local ps = stats.Network.ServerStatsItem:FindFirstChild("Data Ping")
+        if ps then pingMs = ps:GetValue() end
+    end
+    local pingSec    = math.clamp(pingMs / 1000, 0, 1)
+    local leadOffset = velocity.Magnitude < 2 and Vector3.new() or velocity * pingSec
+    local targetCFrame = CFrame.new(enemyHRP.Position + leadOffset)
+    pcall(function()
+        gun:WaitForChild("Shoot"):FireServer(originCFrame, targetCFrame)
+    end)
+end
+
+-- ═══════════════════════════════════════════════════════════════════════════════
+-- MAIN TAB
+-- ═══════════════════════════════════════════════════════════════════════════════
+
+local SheriffSection = TabMain:Section({
+    Title = "Sheriff", Box = true, BoxBorder = true, Opened = true,
+})
+
+local autoShootEnabled = false
+
+SheriffSection:Toggle({
+    Title = "Auto Shoot Murderer",
+    Desc  = "Loops and shoots whoever holds the Knife",
+    Value = false,
+    Callback = function(state)
+        autoShootEnabled = state
+        if state then
+            task.spawn(function()
+                while autoShootEnabled do
+                    local murder = findPlayerWithTool("Knife")
+                    if murder then shootAtTarget(murder) end
+                    task.wait(0.1)
+                end
+            end)
+        end
+    end,
+})
+
+SheriffSection:Button({
+    Title    = "Shoot Murderer",
+    Desc     = "Fire once at whoever holds the Knife — Keybind: Z",
+    Icon     = "solar:gun-bold",
+    Callback = function()
+        local murder = findPlayerWithTool("Knife")
+        if murder then
+            shootAtTarget(murder)
+            WindUI:Notify({ Title = "Shot", Content = "Fired at " .. murder.Name })
+        else
+            WindUI:Notify({ Title = "Miss", Content = "No murderer found!" })
+        end
+    end,
+})
+
+SheriffSection:Button({
+    Title    = "Teleport Gun to Me",
+    Desc     = "Moves GunDrop to your position — Keybind: X",
+    Icon     = "solar:target-bold",
+    Callback = function()
+        local gun = workspace:FindFirstChild("Map") and workspace.Map:FindFirstChild("GunDrop")
+        if not gun then
+            for _, v in ipairs(workspace:GetDescendants()) do
+                if v.Name == "GunDrop" and v:IsA("BasePart") then gun = v break end
+            end
+        end
+        if gun then
+            gun.CFrame = getHRP().CFrame + Vector3.new(0, 2, -3)
+            WindUI:Notify({ Title = "Done", Content = "Gun moved to you!" })
+        else
+            WindUI:Notify({ Title = "Miss", Content = "No GunDrop found!" })
+        end
+    end,
+})
+
+local MurdererSection = TabMain:Section({
+    Title = "Murderer", Box = true, BoxBorder = true, Opened = true,
+})
+
+local killAllEnabled    = false
+local throwKnifeEnabled = false
+
+MurdererSection:Toggle({
+    Title = "Kill All",
+    Desc  = "TP to nearest player and stab",
+    Value = false,
+    Callback = function(state)
+        killAllEnabled = state
+        if state then
+            task.spawn(function()
+                while killAllEnabled do
+                    local closest, shortest = nil, math.huge
+                    for _, p in ipairs(Players:GetPlayers()) do
+                        if p ~= LocalPlayer and p.Character and p.Character:FindFirstChild("HumanoidRootPart") then
+                            local hum = p.Character:FindFirstChildOfClass("Humanoid")
+                            if hum and hum.Health > 0 then
+                                local myHRP = getChar():FindFirstChild("HumanoidRootPart")
+                                if myHRP then
+                                    local dist = (p.Character.HumanoidRootPart.Position - myHRP.Position).Magnitude
+                                    if dist < shortest then shortest = dist closest = p end
+                                end
+                            end
+                        end
+                    end
+                    if closest then
+                        local char  = getChar()
+                        local hrp   = char:WaitForChild("HumanoidRootPart")
+                        hrp.CFrame  = closest.Character:WaitForChild("HumanoidRootPart").CFrame
+                        local knife = LocalPlayer.Backpack:FindFirstChild("Knife") or char:FindFirstChild("Knife")
+                        if knife then
+                            pcall(function()
+                                knife:WaitForChild("Events"):WaitForChild("KnifeStabbed"):FireServer()
+                            end)
+                        end
+                    end
+                    task.wait(0)
+                end
+            end)
+        end
+    end,
+})
+
+MurdererSection:Toggle({
+    Title = "Auto Throw Knife",
+    Desc  = "Throws knife at nearest player with lead-shot",
+    Value = false,
+    Callback = function(state)
+        throwKnifeEnabled = state
+        if state then
+            task.spawn(function()
+                while throwKnifeEnabled do
+                    local closest, shortest = nil, math.huge
+                    for _, p in ipairs(Players:GetPlayers()) do
+                        if p ~= LocalPlayer and p.Character and p.Character:FindFirstChild("HumanoidRootPart") then
+                            local hum = p.Character:FindFirstChildOfClass("Humanoid")
+                            if hum and hum.Health > 0 then
+                                local myHRP = getChar():FindFirstChild("HumanoidRootPart")
+                                if myHRP then
+                                    local dist = (p.Character.HumanoidRootPart.Position - myHRP.Position).Magnitude
+                                    if dist < shortest then shortest = dist closest = p end
+                                end
+                            end
+                        end
+                    end
+                    if closest then
+                        local char  = getChar()
+                        local knife = LocalPlayer.Backpack:FindFirstChild("Knife") or char:FindFirstChild("Knife")
+                        if knife then
+                            local handle = knife:FindFirstChild("Handle")
+                            local events = knife:FindFirstChild("Events")
+                            if handle and events then
+                                local enemyHRP = closest.Character.HumanoidRootPart
+                                local velocity = enemyHRP.Velocity
+                                local pingMs   = 0
+                                local stats    = game:GetService("Stats")
+                                if stats:FindFirstChild("Network") and stats.Network:FindFirstChild("ServerStatsItem") then
+                                    local ps = stats.Network.ServerStatsItem:FindFirstChild("Data Ping")
+                                    if ps then pingMs = ps:GetValue() end
+                                end
+                                local pingSec    = math.clamp(pingMs / 1000, 0, 1)
+                                local leadOffset = velocity.Magnitude < 2 and Vector3.new() or velocity * pingSec
+                                local targetCFrame = CFrame.new(enemyHRP.Position + leadOffset)
+                                pcall(function()
+                                    events:WaitForChild("KnifeThrown"):FireServer(handle.CFrame, targetCFrame)
+                                end)
+                            end
+                        end
+                    end
+                    task.wait(0.6)
+                end
+            end)
+        end
+    end,
+})
+
+local InnocentSection = TabMain:Section({
+    Title = "Innocent", Box = true, BoxBorder = true, Opened = true,
+})
+
+local autoCoinEnabled = false
+
+InnocentSection:Toggle({
+    Title = "Auto Farm Coins",
+    Desc  = "TPs to each coin to collect it",
+    Value = false,
+    Callback = function(state)
+        autoCoinEnabled = state
+        if state then
+            task.spawn(function()
+                while autoCoinEnabled do
+                    pcall(function()
+                        for _, container in ipairs(workspace:GetDescendants()) do
+                            if not autoCoinEnabled then break end
+                            if container:IsA("Model") and container.Name == "CoinContainer" then
+                                for _, coinServer in ipairs(container:GetChildren()) do
+                                    if not autoCoinEnabled then break end
+                                    if coinServer.Name == "Coin_Server" then
+                                        local cv = coinServer:FindFirstChild("CoinVisual")
+                                        if cv then
+                                            local mc = cv:FindFirstChild("MainCoin")
+                                            if mc and mc:IsA("MeshPart") then
+                                                local hrp = getChar():FindFirstChild("HumanoidRootPart")
+                                                if hrp then
+                                                    hrp.CFrame = mc.CFrame + Vector3.new(0, 3, 0)
+                                                    task.wait(0.05)
+                                                end
+                                            end
+                                        end
+                                    end
+                                end
+                            end
+                        end
+                    end)
+                    task.wait(0.5)
+                end
+            end)
+        end
+    end,
+})
+
+-- ═══════════════════════════════════════════════════════════════════════════════
+-- ESP TAB
+-- ═══════════════════════════════════════════════════════════════════════════════
+local playerHighlights = {}
+local coinHighlights   = {}
+local gunDropHighlight = nil
+local nameLabels       = {}
+
+local murdererESPEnabled = false
+local sheriffESPEnabled  = false
+local innocentESPEnabled = false
+local coinESPEnabled     = false
+local gunDropESPEnabled  = false
+local namesESPEnabled    = false
+local outlineWhite       = false
+
+local function getOutlineColor()
+    return outlineWhite and Color3.new(1, 1, 1) or Color3.new(0, 0, 0)
+end
+
+local function updateESPForPlayer(player)
+    if not player.Character then
+        if playerHighlights[player] then
+            playerHighlights[player]:Destroy()
+            playerHighlights[player] = nil
+        end
+        return
+    end
+    local role = getPlayerRole(player)
+    local shouldShow =
+        (role == "Murderer" and murdererESPEnabled) or
+        (role == "Sheriff"  and sheriffESPEnabled)  or
+        (role == "Innocent" and innocentESPEnabled)
+
+    if shouldShow then
+        local color = RoleColors[role]
+        if not playerHighlights[player] then
+            local h = Instance.new("Highlight")
+            h.Name                = "ESPHighlight"
+            h.FillTransparency    = 0.5
+            h.OutlineTransparency = 0
+            h.OutlineColor        = getOutlineColor()
+            h.FillColor           = color
+            h.Adornee             = player.Character
+            h.Parent              = player.Character
+            playerHighlights[player] = h
+        else
+            playerHighlights[player].FillColor    = color
+            playerHighlights[player].OutlineColor = getOutlineColor()
+            if playerHighlights[player].Adornee ~= player.Character then
+                playerHighlights[player].Adornee = player.Character
+            end
+        end
+    else
+        if playerHighlights[player] then
+            playerHighlights[player]:Destroy()
+            playerHighlights[player] = nil
+        end
+    end
+
+    -- Name labels
+    if namesESPEnabled and player.Character and player.Character:FindFirstChild("Head") then
+        if not nameLabels[player] then
+            local bb = Instance.new("BillboardGui")
+            bb.Name          = "ESPName"
+            bb.Size          = UDim2.new(0, 100, 0, 30)
+            bb.StudsOffset   = Vector3.new(0, 3, 0)
+            bb.AlwaysOnTop   = true
+            bb.Adornee       = player.Character.Head
+            bb.Parent        = player.Character.Head
+            local lbl        = Instance.new("TextLabel")
+            lbl.Size         = UDim2.new(1, 0, 1, 0)
+            lbl.BackgroundTransparency = 1
+            lbl.TextColor3   = RoleColors[getPlayerRole(player)] or Color3.new(1,1,1)
+            lbl.TextStrokeTransparency = 0
+            lbl.Font         = Enum.Font.GothamBold
+            lbl.TextSize     = 14
+            lbl.Text         = player.Name
+            lbl.Parent       = bb
+            nameLabels[player] = bb
+        end
+    else
+        if nameLabels[player] then
+            nameLabels[player]:Destroy()
+            nameLabels[player] = nil
+        end
+    end
+end
+
+local function clearAllESP()
+    for _, p in ipairs(Players:GetPlayers()) do
+        if playerHighlights[p] then playerHighlights[p]:Destroy() playerHighlights[p] = nil end
+        if nameLabels[p]       then nameLabels[p]:Destroy()       nameLabels[p] = nil       end
+    end
+end
+
+local function spawnESPLoop(getEnabled)
+    task.spawn(function()
+        while getEnabled() do
+            pcall(function()
+                for _, p in ipairs(Players:GetPlayers()) do
+                    if p ~= LocalPlayer then updateESPForPlayer(p) end
+                end
+            end)
+            task.wait(1)
+        end
+        clearAllESP()
+    end)
+end
+
+local ESPSection = TabESP:Section({
+    Title = "Player ESP", Box = true, BoxBorder = true, Opened = true,
+})
+
+ESPSection:Toggle({
+    Title = "Murderer ESP",
+    Desc  = "Red highlight on the murderer",
+    Value = false,
+    Callback = function(state)
+        murdererESPEnabled = state
+        if state then spawnESPLoop(function() return murdererESPEnabled end) end
+    end,
+})
+
+ESPSection:Toggle({
+    Title = "Sheriff ESP",
+    Desc  = "Blue highlight on the sheriff",
+    Value = false,
+    Callback = function(state)
+        sheriffESPEnabled = state
+        if state then spawnESPLoop(function() return sheriffESPEnabled end) end
+    end,
+})
+
+ESPSection:Toggle({
+    Title = "Innocent ESP",
+    Desc  = "Green highlight on innocents",
+    Value = false,
+    Callback = function(state)
+        innocentESPEnabled = state
+        if state then spawnESPLoop(function() return innocentESPEnabled end) end
+    end,
+})
+
+ESPSection:Toggle({
+    Title = "White Outline",
+    Desc  = "White outline instead of black on all ESP",
+    Value = false,
+    Callback = function(state)
+        outlineWhite = state
+        -- Update existing highlights live
+        for _, h in pairs(playerHighlights) do
+            if h then h.OutlineColor = getOutlineColor() end
+        end
+    end,
+})
+
+ESPSection:Toggle({
+    Title = "Player Names",
+    Desc  = "Show names above players",
+    Value = false,
+    Callback = function(state)
+        namesESPEnabled = state
+        if not state then
+            for _, p in ipairs(Players:GetPlayers()) do
+                if nameLabels[p] then nameLabels[p]:Destroy() nameLabels[p] = nil end
+            end
+        end
+    end,
+})
+
+local ObjectESPSection = TabESP:Section({
+    Title = "Object ESP", Box = true, BoxBorder = true, Opened = true,
+})
+
+ObjectESPSection:Toggle({
+    Title = "Coin ESP",
+    Desc  = "Yellow highlight on all coins",
+    Value = false,
+    Callback = function(state)
+        coinESPEnabled = state
+        if state then
+            task.spawn(function()
+                while coinESPEnabled do
+                    pcall(function()
+                        for _, container in ipairs(workspace:GetDescendants()) do
+                            if container:IsA("Model") and container.Name == "CoinContainer" then
+                                for _, coinServer in ipairs(container:GetChildren()) do
+                                    if coinServer.Name == "Coin_Server" then
+                                        local cv = coinServer:FindFirstChild("CoinVisual")
+                                        if cv then
+                                            local mc = cv:FindFirstChild("MainCoin")
+                                            if mc and mc:IsA("MeshPart") and not coinHighlights[mc] then
+                                                local h = Instance.new("Highlight")
+                                                h.Name                = "CoinESP"
+                                                h.FillColor           = Color3.fromRGB(255, 220, 0)
+                                                h.OutlineColor        = getOutlineColor()
+                                                h.FillTransparency    = 0.4
+                                                h.OutlineTransparency = 0
+                                                h.Adornee             = mc
+                                                h.Parent              = mc
+                                                coinHighlights[mc]    = h
+                                            end
+                                        end
+                                    end
+                                end
+                            end
+                        end
+                    end)
+                    task.wait(0.2)
+                end
+                for _, h in pairs(coinHighlights) do if h then h:Destroy() end end
+                coinHighlights = {}
+            end)
+        end
+    end,
+})
+
+ObjectESPSection:Toggle({
+    Title = "Gun Drop ESP",
+    Desc  = "Yellow highlight on the dropped gun",
+    Value = false,
+    Callback = function(state)
+        gunDropESPEnabled = state
+        if state then
+            task.spawn(function()
+                while gunDropESPEnabled do
+                    pcall(function()
+                        local obj = workspace:FindFirstChild("Map") and workspace.Map:FindFirstChild("GunDrop")
+                        if not obj then
+                            for _, v in ipairs(workspace:GetDescendants()) do
+                                if v.Name == "GunDrop" and v:IsA("BasePart") then obj = v break end
+                            end
+                        end
+                        if obj then
+                            if not gunDropHighlight then
+                                local h = Instance.new("Highlight")
+                                h.Name                = "GunDropESP"
+                                h.FillColor           = Color3.fromRGB(255, 220, 0)
+                                h.OutlineColor        = getOutlineColor()
+                                h.FillTransparency    = 0.4
+                                h.OutlineTransparency = 0
+                                h.Adornee             = obj
+                                h.Parent              = obj
+                                gunDropHighlight      = h
+                            elseif gunDropHighlight.Adornee ~= obj then
+                                gunDropHighlight.Adornee = obj
+                            end
+                        end
+                    end)
+                    task.wait(0.2)
+                end
+                if gunDropHighlight then gunDropHighlight:Destroy() gunDropHighlight = nil end
+            end)
+        else
+            if gunDropHighlight then gunDropHighlight:Destroy() gunDropHighlight = nil end
+        end
+    end,
+})
+
+-- ═══════════════════════════════════════════════════════════════════════════════
+-- PLAYER TAB
+-- ═══════════════════════════════════════════════════════════════════════════════
+local MovementSection = TabPlayer:Section({
+    Title = "Movement", Box = true, BoxBorder = true, Opened = true,
+})
+
+local walkspeedValue = 16
+local jumpPowerValue = 50
+local NoclipEnabled  = false
+
+MovementSection:Slider({
+    Title     = "Walkspeed",
+    Desc      = "Persists through respawns",
+    IsTooltip = true,
+    Step      = 1,
+    Value     = { Min = 0, Max = 200, Default = 16 },
+    Icons     = { From = "solar:walking-bold", To = "solar:running-round-bold" },
+    Callback  = function(v)
+        walkspeedValue = v
+        local hum = getChar():FindFirstChildOfClass("Humanoid")
+        if hum then hum.WalkSpeed = v end
+    end,
+})
+
+MovementSection:Slider({
+    Title     = "Jump Power",
+    Desc      = "Persists through respawns",
+    IsTooltip = true,
+    Step      = 1,
+    Value     = { Min = 0, Max = 300, Default = 50 },
+    Icons     = { From = "solar:arrow-down-bold", To = "solar:arrow-up-bold" },
+    Callback  = function(v)
+        jumpPowerValue = v
+        local hum = getChar():FindFirstChildOfClass("Humanoid")
+        if hum then hum.JumpPower = v end
+    end,
+})
+
+task.spawn(function()
+    while true do
+        pcall(function()
+            local hum = getChar():FindFirstChildOfClass("Humanoid")
+            if hum then
+                hum.WalkSpeed = walkspeedValue
+                hum.JumpPower = jumpPowerValue
+            end
+        end)
+        task.wait(0.5)
+    end
+end)
+
+MovementSection:Toggle({
+    Title = "Noclip",
+    Desc  = "Walk through walls",
+    Value = false,
+    Callback = function(state)
+        NoclipEnabled = state
+    end,
+})
+
+RunService.Stepped:Connect(function()
+    if NoclipEnabled and LocalPlayer.Character then
+        for _, part in ipairs(LocalPlayer.Character:GetDescendants()) do
+            if part:IsA("BasePart") then part.CanCollide = false end
+        end
+    end
+end)
+
+MovementSection:Toggle({
+    Title = "Infinite Jump",
+    Desc  = "Jump unlimited times",
+    Value = false,
+    Callback = function(state)
+        if state then
+            UserInputService.JumpRequest:Connect(function()
+                local hum = LocalPlayer.Character and LocalPlayer.Character:FindFirstChildOfClass("Humanoid")
+                if hum then hum:ChangeState(Enum.HumanoidStateType.Jumping) end
+            end)
+        end
+    end,
+})
+
+local FlySection = TabPlayer:Section({
+    Title = "Fly", Box = true, BoxBorder = true, Opened = true,
+})
+
+local FlyEnabled    = false
+local FlySpeedValue = 50
+local FlyBV, FlyBG, FlyCon
+
+FlySection:Slider({
+    Title     = "Fly Speed",
+    IsTooltip = true,
+    Step      = 1,
+    Value     = { Min = 10, Max = 500, Default = 50 },
+    Icons     = { From = "solar:wind-bold", To = "solar:rocket-bold" },
+    Callback  = function(v) FlySpeedValue = v end,
+})
+
+FlySection:Toggle({
+    Title = "Fly",
+    Desc  = "WASD to move, Q/E for up/down",
+    Value = false,
+    Callback = function(state)
+        FlyEnabled = state
+        local char = LocalPlayer.Character
+        if not char then return end
+        local hrp = char:FindFirstChild("HumanoidRootPart")
+        if not hrp then return end
+        if FlyEnabled then
+            FlyBV           = Instance.new("BodyVelocity")
+            FlyBV.MaxForce  = Vector3.new(1e5, 1e5, 1e5)
+            FlyBV.Velocity  = Vector3.new()
+            FlyBV.Parent    = hrp
+            FlyBG           = Instance.new("BodyGyro")
+            FlyBG.MaxTorque = Vector3.new(1e5, 1e5, 1e5)
+            FlyBG.CFrame    = hrp.CFrame
+            FlyBG.Parent    = hrp
+            FlyCon = RunService.RenderStepped:Connect(function()
+                local d = Vector3.new()
+                if UserInputService:IsKeyDown(Enum.KeyCode.W) then d = d + Camera.CFrame.LookVector  end
+                if UserInputService:IsKeyDown(Enum.KeyCode.S) then d = d - Camera.CFrame.LookVector  end
+                if UserInputService:IsKeyDown(Enum.KeyCode.A) then d = d - Camera.CFrame.RightVector end
+                if UserInputService:IsKeyDown(Enum.KeyCode.D) then d = d + Camera.CFrame.RightVector end
+                if UserInputService:IsKeyDown(Enum.KeyCode.E) then d = d + Vector3.new(0,1,0)        end
+                if UserInputService:IsKeyDown(Enum.KeyCode.Q) then d = d - Vector3.new(0,1,0)        end
+                FlyBV.Velocity = d * FlySpeedValue
+                FlyBG.CFrame   = d.Magnitude > 0 and CFrame.new(hrp.Position, hrp.Position + d) or hrp.CFrame
+            end)
+        else
+            if FlyCon then FlyCon:Disconnect() end
+            if FlyBV  then FlyBV:Destroy()    end
+            if FlyBG  then FlyBG:Destroy()    end
+        end
+    end,
+})
+
+local defaultGravity = workspace.Gravity
+
+FlySection:Slider({
+    Title     = "Gravity",
+    IsTooltip = true,
+    Step      = 1,
+    Value     = { Min = 0, Max = 999, Default = defaultGravity },
+    Icons     = { From = "solar:planet-bold", To = "solar:earth-bold" },
+    Callback  = function(v) workspace.Gravity = v end,
+})
+
+FlySection:Button({
+    Title    = "Restore Defaults",
+    Desc     = "Reset walkspeed, jump power and gravity",
+    Icon     = "solar:restart-circle-bold",
+    Callback = function()
+        walkspeedValue = 16
+        jumpPowerValue = 50
+        workspace.Gravity = defaultGravity
+        local hum = getChar():FindFirstChildOfClass("Humanoid")
+        if hum then hum.WalkSpeed = 16 hum.JumpPower = 50 end
+        WindUI:Notify({ Title = "Restored", Content = "Values reset to default." })
+    end,
+})
+
+local TeleportSection = TabPlayer:Section({
+    Title = "Player Teleport", Box = true, BoxBorder = true, Opened = true,
+})
+
+local function getPlayerNames()
+    local names = {}
+    for _, p in ipairs(Players:GetPlayers()) do
+        if p ~= LocalPlayer then table.insert(names, p.Name) end
+    end
+    return names
+end
+
+local TpDropdown = TeleportSection:Dropdown({
+    Title    = "Teleport to Player",
+    Desc     = "Select a player to TP to",
+    Value    = nil,
+    Values   = getPlayerNames(),
+    Callback = function(selected)
+        if not selected or selected == "" then return end
+        local target = Players:FindFirstChild(selected)
+        if not target then
+            WindUI:Notify({ Title = "Failed", Content = "Player not found." })
+            return
+        end
+        local ok, err = pcall(function()
+            local hrp = (LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()):WaitForChild("HumanoidRootPart")
+            hrp.CFrame = target.Character:WaitForChild("HumanoidRootPart").CFrame + Vector3.new(0,5,0)
+        end)
+        if ok then
+            WindUI:Notify({ Title = "Done", Content = "Teleported to " .. selected })
+        else
+            WindUI:Notify({ Title = "Error", Content = tostring(err) })
+        end
+    end,
+})
+
+TeleportSection:Button({
+    Title    = "Refresh List",
+    Desc     = "Update dropdown with current players",
+    Icon     = "solar:refresh-bold",
+    Callback = function()
+        TpDropdown:SetValues(getPlayerNames())
+        WindUI:Notify({ Title = "Done", Content = "Player list refreshed." })
+    end,
+})
+
+Players.PlayerAdded:Connect(function()    TpDropdown:SetValues(getPlayerNames()) end)
+Players.PlayerRemoving:Connect(function() TpDropdown:SetValues(getPlayerNames()) end)
+
+-- ═══════════════════════════════════════════════════════════════════════════════
+-- MISC TAB
+-- ═══════════════════════════════════════════════════════════════════════════════
+local ServerSection = TabMisc:Section({
+    Title = "Server", Box = true, BoxBorder = true, Opened = true,
+})
+
+ServerSection:Button({
+    Title    = "Rejoin",
+    Desc     = "Rejoin current server",
+    Icon     = "solar:login-bold",
+    Callback = function()
+        TeleportService:Teleport(game.PlaceId, LocalPlayer)
+    end,
+})
+
+local function serverhop()
+    local function tryHttp(url)
+        if syn and syn.request then
+            local r = syn.request({ Url = url, Method = "GET" })
+            return true, HttpService:JSONDecode(r.Body)
+        end
+        if request then
+            local r = request({ Url = url, Method = "GET" })
+            return true, HttpService:JSONDecode(r.Body)
+        end
+        local ok, r = pcall(function() return HttpService:JSONDecode(game:HttpGet(url)) end)
+        if ok then return true, r end
+        return false, nil
+    end
+    local url = string.format(
+        "https://games.roblox.com/v1/games/%d/servers/Public?sortOrder=Desc&limit=100&excludeFullGames=true",
+        game.PlaceId
+    )
+    local ok, response = tryHttp(url)
+    if not ok or not response or not response.data then
+        WindUI:Notify({ Title = "Serverhop", Content = "Failed to fetch servers." })
+        return
+    end
+    local servers = {}
+    for _, v in ipairs(response.data) do
+        if type(v) == "table" and tonumber(v.playing) and tonumber(v.maxPlayers)
+            and v.playing < v.maxPlayers and v.id ~= game.JobId then
+            table.insert(servers, v.id)
+        end
+    end
+    if #servers > 0 then
+        WindUI:Notify({ Title = "Serverhop", Content = "Joining new server..." })
+        TeleportService:TeleportToPlaceInstance(game.PlaceId, servers[math.random(1, #servers)], LocalPlayer)
+    else
+        WindUI:Notify({ Title = "Serverhop", Content = "No open servers found." })
+    end
+end
+
+ServerSection:Button({
+    Title    = "Serverhop",
+    Desc     = "Join a random open server",
+    Icon     = "solar:arrow-right-bold",
+    Callback = function()
+        local ok, err = pcall(serverhop)
+        if not ok then WindUI:Notify({ Title = "Error", Content = tostring(err) }) end
+    end,
+})
+
+local UISection = TabMisc:Section({
+    Title = "Interface", Box = true, BoxBorder = true, Opened = true,
+})
+
+UISection:Toggle({
+    Title    = "Transparency",
+    Desc     = "Toggle frosted-glass transparency",
+    Value    = true,
+    Callback = function(v) Window:ToggleTransparency(v) end,
+})
+
+local _S29 = TabMisc:Section({
+    Title = "Font Changer", Box = true, BoxBorder = true, Opened = true,
+})
+
+local fontLoaded     = false
+local activeFont     = nil
+local activeFontSize = nil
+
+local function loadFonts()
+    if fontLoaded then return true end
+    local ok = pcall(function()
+        local hs    = HttpService
+        local fonts = {
+            { file = "minecrafter.ttf", name = "Minecrafter", id = "1_LSZQUGrKHzJctxK7Jp8rVRRVWIvdif4" },
+            { file = "horror.ttf",      name = "Horror",      id = "1dH4Y_ZuoTeMouMQoGZSc1OVLT7-73zmq" },
+            { file = "vhsgothic.ttf",   name = "VHS",         id = "1XRWSIsNj9-v-vnrOCdYiUJIvz6ETAzfE" },
+            { file = "starborn.ttf",    name = "Starborn",    id = "1k9H8G60p7iaJL4hHcyWEXgWJbONqam8_" },
+        }
+        for _, f in ipairs(fonts) do
+            local data = game:HttpGet("https://drive.google.com/uc?export=download&id=" .. f.id)
+            writefile(f.file, data)
+            local json = hs:JSONEncode({
+                name  = f.name,
+                faces = {{ style = "normal", assetId = getcustomasset(f.file), name = "Regular", weight = 400 }}
+            })
+            writefile(f.name .. ".json", json)
+        end
+    end)
+    fontLoaded = true
+    return ok
+end
+
+local function applyFont(jsonName)
+    pcall(function()
+        local font = Font.new(getcustomasset(jsonName .. ".json"))
+        local pg   = LP:FindFirstChild("PlayerGui")
+        if not pg then return end
+        for _, obj in ipairs(pg:GetDescendants()) do
+            pcall(function()
+                if (obj:IsA("TextLabel") or obj:IsA("TextButton") or obj:IsA("TextBox")) and obj.Text ~= "" then
+                    obj.FontFace = font
+                    if activeFontSize then
+                        obj.TextScaled = false
+                        obj.TextSize   = activeFontSize
+                    end
+                end
+            end)
+        end
+    end)
+end
+
+local function resetFont()
+    local pg = LP:FindFirstChild("PlayerGui")
+    if not pg then return end
+    for _, obj in ipairs(pg:GetDescendants()) do
+        pcall(function()
+            if obj:IsA("TextLabel") or obj:IsA("TextButton") or obj:IsA("TextBox") then
+                obj.FontFace = Font.new("rbxasset://fonts/families/GothamSSm.json")
+            end
+        end)
+    end
+    activeFont = nil
+end
+
+_S29:Button({
+    Title    = "Download All Fonts",
+    Desc     = "Download fonts first before applying",
+    Callback = function() task.spawn(loadFonts) end,
+})
+
+_S29:Slider({
+    Title    = "Font Size",
+    Desc     = "0 = keep original size",
+    Value    = { Min = 0, Max = 36, Default = 0 },
+    Step     = 1,
+    Callback = function(v)
+        activeFontSize = (v == 0) and nil or v
+        if activeFont then
+            task.spawn(function() loadFonts() applyFont(activeFont) end)
+        end
+    end,
+})
+
+local fontToggles = {}
+local fontNames   = { "Starborn", "Minecrafter", "Horror", "VHS" }
+
+for _, name in ipairs(fontNames) do
+    local n = name
+    local toggle
+    toggle = _S29:Toggle({
+        Title    = "Font: " .. n,
+        Desc     = "Toggle " .. n .. " on/off",
+        Value    = false,
+        Callback = function(v)
+            if v then
+                for fname, setFn in pairs(fontToggles) do
+                    if fname ~= n then setFn(false) end
+                end
+                activeFont = n
+                task.spawn(function() loadFonts() applyFont(n) end)
+            else
+                if activeFont == n then
+                    activeFont = nil
+                    pcall(resetFont)
+                end
+            end
+        end,
+    })
+    fontToggles[n] = function(val)
+        pcall(function() toggle:Set(val) end)
+    end
+end
+
+_S29:Button({
+    Title    = "Reset Font",
+    Desc     = "Restore default Roblox font",
+    Callback = function() pcall(resetFont) end,
+})
+
+-- ═══════════════════════════════════════════════════════════════════════════════
+-- KEYBINDS
+-- ═══════════════════════════════════════════════════════════════════════════════
+UserInputService.InputBegan:Connect(function(input, gp)
+    if gp then return end
+    if input.KeyCode == Enum.KeyCode.X then
+        local gun = workspace:FindFirstChild("Map") and workspace.Map:FindFirstChild("GunDrop")
+        if not gun then
+            for _, v in ipairs(workspace:GetDescendants()) do
+                if v.Name == "GunDrop" and v:IsA("BasePart") then gun = v break end
+            end
+        end
+        if gun then
+            gun.CFrame = getHRP().CFrame + Vector3.new(0, 2, -3)
+            WindUI:Notify({ Title = "Done", Content = "Gun moved to you!" })
+        else
+            WindUI:Notify({ Title = "Miss", Content = "No GunDrop found!" })
+        end
+    end
+    if input.KeyCode == Enum.KeyCode.Z then
+        local murder = findPlayerWithTool("Knife")
+        if murder then
+            shootAtTarget(murder)
+            WindUI:Notify({ Title = "Shot", Content = "Fired at " .. murder.Name })
+        else
+            WindUI:Notify({ Title = "Miss", Content = "No murderer found!" })
+        end
+    end
+end)
+
+Players.PlayerAdded:Connect(function(player)
+    player.CharacterAdded:Connect(function()
+        task.wait(0.5)
+        if murdererESPEnabled or sheriffESPEnabled or innocentESPEnabled then
+            updateESPForPlayer(player)
+        end
+    end)
+end)
+
+WindUI:Notify({
+    Title   = "Murder Mystery 2",
+    Content = "Loaded — LeftControl to toggle",
+})
